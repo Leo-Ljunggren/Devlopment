@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Devlopment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CA60698E-C7B7-4679-A1C6-489FAE5982DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Devlopment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DevlopmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5023422A-6426-47F4-9951-0ED6BD7CA51E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Devlopment">
+      <UniqueIdentifier>{2B3F9013-D780-4051-A03C-CC9C109B7A38}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Devlopment\Devlopment.Build.cs">
+      <Filter>Source\Devlopment</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Devlopment\Devlopment.cpp">
+      <Filter>Source\Devlopment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Devlopment\Devlopment.h">
+      <Filter>Source\Devlopment</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Devlopment\DevlopmentGameModeBase.cpp">
+      <Filter>Source\Devlopment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Devlopment\DevlopmentGameModeBase.h">
+      <Filter>Source\Devlopment</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
