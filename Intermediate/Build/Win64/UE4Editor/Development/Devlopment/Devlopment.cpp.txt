@@ -1,2 +1,2 @@
-G:\Game Creation\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\Definitions.Devlopment.h
-G:\Game Creation\Devlopment\Source\Devlopment\Devlopment.h
+C:\Users\cand9\Documents\GitHub\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\Definitions.Devlopment.h
+c:\users\cand9\documents\github\devlopment\source\devlopment\Devlopment.h

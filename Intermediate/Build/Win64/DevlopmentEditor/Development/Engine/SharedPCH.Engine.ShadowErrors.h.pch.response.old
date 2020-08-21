@@ -259,11 +259,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I "G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine"
-/Yc"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I "G:\Game Creation\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine"
+/Yc"G:\Game Creation\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"G:\Game Creation\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"G:\Game Creation\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"G:\Game Creation\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4
