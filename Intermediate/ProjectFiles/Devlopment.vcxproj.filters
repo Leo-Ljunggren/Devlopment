@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Devlopment.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2CBC813D-2483-4C1D-8FE7-9C2D34C03D17}</UniqueIdentifier>
+      <UniqueIdentifier>{CA60698E-C7B7-4679-A1C6-489FAE5982DB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Devlopment.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{00DF0EC3-CB76-426D-92FE-1C4CB9CE24E4}</UniqueIdentifier>
+      <UniqueIdentifier>{5023422A-6426-47F4-9951-0ED6BD7CA51E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Devlopment">
-      <UniqueIdentifier>{16E78DF5-66A6-408E-BF58-FE32B92A4DB6}</UniqueIdentifier>
+      <UniqueIdentifier>{2B3F9013-D780-4051-A03C-CC9C109B7A38}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Devlopment\Devlopment.Build.cs">
       <Filter>Source\Devlopment</Filter>

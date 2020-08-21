@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Devlopment.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\DevlopmentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\Devlopment.cpp.obj"
+"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\DevlopmentGameModeBase.cpp.obj"
+"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\Devlopment.init.gen.cpp.obj"
+"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\DevlopmentGameModeBase.gen.cpp.obj"
+"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\Default.rc2.res"
+/OUT:"G:\Game Creation\Tutorials\Building Escape\Devlopment\Intermediate\Build\Win64\UE4Editor\Development\Devlopment\UE4Editor-Devlopment.lib"
+/INCLUDE:IMPLEMENT_MODULE_Devlopment

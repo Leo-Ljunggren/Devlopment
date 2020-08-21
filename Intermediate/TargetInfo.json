@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Devlopment",
-			"Path": "G:\\Game Creation\\Devlopment\\Source\\Devlopment.Target.cs",
+			"Path": "G:\\Game Creation\\Tutorials\\Building Escape\\Devlopment\\Source\\Devlopment.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "DevlopmentEditor",
-			"Path": "G:\\Game Creation\\Devlopment\\Source\\DevlopmentEditor.Target.cs",
+			"Path": "G:\\Game Creation\\Tutorials\\Building Escape\\Devlopment\\Source\\DevlopmentEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
